@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Postman.CreateMap">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>CreateMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Postman.DrawMap">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgCAAAAAAAAAAAACEAAIAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>DrawMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Postman.FindWay">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAACAAAAAAAAEAAAAABIAAA=</HashCode>
+      <FileName>FindWay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Postman.Form1">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="label2_Click" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>SAAABgQAACAEgBAEAACQAAAKAAYAAQAIAAEQAAEAIAI=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

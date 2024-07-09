@@ -1,0 +1,16 @@
+C:\Users\Даша\Desktop\Учеба\Postman\Postman\bin\Debug\net8.0-windows\Postman.exe
+C:\Users\Даша\Desktop\Учеба\Postman\Postman\bin\Debug\net8.0-windows\Postman.deps.json
+C:\Users\Даша\Desktop\Учеба\Postman\Postman\bin\Debug\net8.0-windows\Postman.runtimeconfig.json
+C:\Users\Даша\Desktop\Учеба\Postman\Postman\bin\Debug\net8.0-windows\Postman.dll
+C:\Users\Даша\Desktop\Учеба\Postman\Postman\bin\Debug\net8.0-windows\Postman.pdb
+C:\Users\Даша\Desktop\Учеба\Postman\Postman\obj\Debug\net8.0-windows\Postman.Form1.resources
+C:\Users\Даша\Desktop\Учеба\Postman\Postman\obj\Debug\net8.0-windows\Postman.csproj.GenerateResource.cache
+C:\Users\Даша\Desktop\Учеба\Postman\Postman\obj\Debug\net8.0-windows\Postman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даша\Desktop\Учеба\Postman\Postman\obj\Debug\net8.0-windows\Postman.AssemblyInfoInputs.cache
+C:\Users\Даша\Desktop\Учеба\Postman\Postman\obj\Debug\net8.0-windows\Postman.AssemblyInfo.cs
+C:\Users\Даша\Desktop\Учеба\Postman\Postman\obj\Debug\net8.0-windows\Postman.csproj.CoreCompileInputs.cache
+C:\Users\Даша\Desktop\Учеба\Postman\Postman\obj\Debug\net8.0-windows\Postman.dll
+C:\Users\Даша\Desktop\Учеба\Postman\Postman\obj\Debug\net8.0-windows\refint\Postman.dll
+C:\Users\Даша\Desktop\Учеба\Postman\Postman\obj\Debug\net8.0-windows\Postman.pdb
+C:\Users\Даша\Desktop\Учеба\Postman\Postman\obj\Debug\net8.0-windows\Postman.genruntimeconfig.cache
+C:\Users\Даша\Desktop\Учеба\Postman\Postman\obj\Debug\net8.0-windows\ref\Postman.dll
